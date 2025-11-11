@@ -1,6 +1,3 @@
-That's great\! Having the file names confirms the structure and helps make the `README` even more precise and professional.
-
-Here is the final, comprehensive `README.md` file in English, incorporating the names of the files from your VS Code structure image.
 
 -----
 
